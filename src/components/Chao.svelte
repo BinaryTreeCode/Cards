@@ -1,1 +1,0 @@
-<h1>Hola este componente se esta despidiendo Chao!</h1>

@@ -9,7 +9,7 @@ title: "del agua",
 about: "cuando el agua sufre cambios en su composición hasta ser toxica,\
         lo que causa que no se puede tomar o utilizar para la agricultura.\ ",
 
-url: 'url("https://tinyurl.com/y53rhadj")', // agua
+url: 'url("https://tinyurl.com/yynzbwbu")', // agua
 colum : 1,
 row : 1,
 number : 1,

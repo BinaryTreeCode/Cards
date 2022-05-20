@@ -10,29 +10,29 @@
 		about: "La publicidad afecta la estética del paisaje, disminución de la eficiencia, causa trastornos de atención o disminución de esta y puede ocasionar accidentes por la obstrucción visual y los obstáculos. ",
 
 
-		url: 'url("https://tinyurl.com/y3wc5d7m")', // publicidad
+		url: 'url("https://tinyurl.com/y3kxyepv")', // publicidad
 		colum : 1,
 		row : 1,
 	}, 
 
-    { /*publicidad  =*/
+    { /*saturación  =*/
 		type: "contaminación visual",
-		title: "por petróleo",
-		about: "El petróleo causa problemas de irritación cutánea y ocular, problemas neurológicos y respiratorios, y de estrés, además de ser inflamable y liberar sustancias químicas.",
+		title: "por saturación de colores",
+		about: "Las luces y colores intensos causan dolor de cabeza, desorientación a algunas especies que se guían por la luz, rabia debido al estrés generado por saturación de elementos y colores.",
 
 
-		url: 'url("https://tinyurl.com/y4qnfnw3")', // publicidad
+		url: 'url("https://tinyurl.com/y6y9kg64")', // saturación	
 		colum : 2,
 		row : 1,
 	}, 
 
-	{ /*deforestación =*/
+	{ /*paisaje =*/
 		type: "contaminación visual",
-		title: "por la quema de basuras",
-		about: "La deforestación causa la pérdida del 70% de la fauna y flora que ahí habita además de secar visuals, al no estar protegidos por los árboles.",
+		title: "por los cambios en el paisaje",
+		about: "Los cambios en el paisaje pueden producir trastornos de atención, estrés, desorientación y, sobre todo, rompen la relación entre el humano y la naturaleza.",
 
 
-		url: 'url("https://tinyurl.com/y5rauy9c")', // deforestación 
+		url: 'url("https://tinyurl.com/y569sjk7")', // paisaje 
 		colum : 3,
 		row : 1,
 	}

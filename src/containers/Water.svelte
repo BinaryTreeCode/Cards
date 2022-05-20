@@ -23,14 +23,12 @@ row : 1,
     row : 1
 },
 
-/*tierra =*/ {
+/*basura =*/ {
 type: "contaminación del agua",
-title: "de la tierra",
-about: "es el desequilibrio físico, químico o biológico, por la\
-        acumulación de sustancias a niveles tóxicos, para los\
-        organismos que hay habitan.",
+title: "por el arrojo de basuras",
+about: "El arrojo de basura causa el deterioro estético del océano, la contaminación del agua, el daño a los ecosistemas acuáticos expuestos, inundaciones, malos olores y liberación de toxinas. Nota: los plásticos son confundidos por comida y afectan la cadena alimenticia.",
 
-url: 'url("https://tinyurl.com/yxes7u69")', // tierra
+url: 'url("https://tinyurl.com/y53rhadj")', // basura
 colum : 3,
 row : 1
 },

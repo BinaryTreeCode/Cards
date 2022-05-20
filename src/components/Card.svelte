@@ -50,7 +50,7 @@
     grid-template-columns: 300px;
     grid-template-rows: 200px 210px 80px;
     grid-template-areas: "image" "text" "button";
-    column-gap: 1rem;
+    column-gap:1rem;
     grid-column: var(--column);
     grid-row: var(--row);
     
@@ -62,7 +62,7 @@
     text-align: center;
 
     transition: 0.5s ease;
-    cursor: pointer;
+    cursor: zoom-in;
 }
 
 .card-image {
