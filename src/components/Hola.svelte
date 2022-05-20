@@ -1,0 +1,1 @@
+<h1>Hola se activo este componente</h1>
