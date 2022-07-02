@@ -36,7 +36,7 @@
         organismos que hay habitan.",
 
         img: 'url("https://tinyurl.com/yxes7u69")', // tierra
-        url:'/floor',
+        url:'#/floor',
         colum: 3,
         row: 1,
       },
