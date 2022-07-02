@@ -4,7 +4,8 @@
 
     // export let number = 0;
 
-    export let url = 'url("https://imagen/y5g7vnrh")';
+    export let img = 'url("https://imagen/y5g7vnrh")';
+    export let url = "/";
 
     export let column = 1;
     export let row = 1;
@@ -14,34 +15,7 @@
     export let about = "La contaminación del aire se produce por pequeñas partículas o productos gaseosos que implican riesgo de daño o molestia para los seres vivos en el ambiente (procesos industriales, automóviles, etc.)."
     
 
-    // let changePage = (newPage) => {
-    //     newPage = eval(newPage); 
-    //     component = newPage;
-    //     console.log(component);
-    // }
-    
 
-    // let  changePage = (newPage) => {
-    //     component.update(newPage);
-    //     console.log(newPage);
-    // }
-
-    // let  Click = () => {
-    //     component.set("Water");
-    //     console.log(component); 
-    // }   
-    // let  changePage = (newPage) => {
-    //     component.set(newPage);
-    // }
-    
-    // let Click = () => {
-    //     component.travel(number);  
-    // }
-
-
-
-
-    // export let onClick = () => { console.log("aire"); }
 </script>
 
 <style>
@@ -114,15 +88,14 @@
 </style>
 
 <div class="card" style="--row:{row}, --column:{column}" >
-    <div class="card-image"  style="--image:{url}"></div>
+    <div class="card-image"  style="--image:{img}"></div>
     <div class="card-text">
         <span class="type">{type}</span>
         <h2>{title}</h2>
         <p>{about}</p>
     </div>
     <div class="card-button">
-        <!-- hacer función para redirecionar con button (tutorial en platzi) -->
-        <Button title={title} on:click />
+        <Button title={title} url={url} />
     </div>    
-
 </div>
+

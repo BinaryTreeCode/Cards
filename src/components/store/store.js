@@ -4,7 +4,7 @@
 // // import Water from "../../containers/Water.svelte";
 
 
-// // export const componentData = [Home, Water];
+// // export const componentData = [Home, Water] };
 
 // // // function travelComponents() {
 // // // 	const { subscribe, set } = writable(Home);

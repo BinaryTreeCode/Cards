@@ -10,7 +10,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "svelte": "^3.47.0"
+    "svelte": "^3.47.0",
+    "svelte-spa-router": "^3.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
